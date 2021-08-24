@@ -10,10 +10,10 @@ This is a solution to the [Fylo landing page with two column layout challenge on
 
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-<!-- ### Links
+### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Live Site URL: https://lpdesign-fylo-landing-page-with-two-column-layout.netlify.app/
 
 ### Built with
 
