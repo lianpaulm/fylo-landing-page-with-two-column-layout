@@ -283,7 +283,10 @@ footer li {
     margin: 0 auto;
   }
   .navbar {
-    padding: 2rem;
+    padding: 3rem 2rem 2rem;
+  }
+  .nav-menu li {
+    margin-left: 2em;
   }
   section {
     padding: 4rem 2rem;
