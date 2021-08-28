@@ -59,6 +59,7 @@ footer {
 .logo {
   width: 100px;
   display: block;
+  cursor: pointer;
 }
 .nav-menu li {
   display: inline-block;
@@ -287,6 +288,10 @@ footer li {
   }
   .nav-menu li {
     margin-left: 2em;
+  }
+  .nav-menu a {
+    font-weight: 600;
+    letter-spacing: 0.5px;
   }
   section {
     padding: 4rem 2rem;
